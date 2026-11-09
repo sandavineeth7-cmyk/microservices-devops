@@ -1,0 +1,11 @@
+{
+  "name": "order-service",
+  "version": "1.0.0",
+  "description": "Sample Order Service for the DevOps assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test test.js"
+  },
+  "license": "MIT"
+}
