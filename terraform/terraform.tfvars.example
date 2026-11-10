@@ -1,0 +1,2 @@
+my_ip_cidr = "1.2.3.4/32"
+public_key = "ssh-ed25519 AAAA... devops"
